@@ -13,6 +13,7 @@ Webcomics for which links are present :-
 2. XKCD (http://www.xkcd.com)
 3. PhdComics (http://www.phdcomics.com/comics.php)
 4. SpikedMath (http://www.spikedmath.com)
+5. The Phantom (http://thephantomcomics.com/)
 
 
 Directory Structure
